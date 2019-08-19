@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+h1 {
+  font-family: 'bigelow Rules';
+  font-size : 72px;
+  color: #61dafb
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
